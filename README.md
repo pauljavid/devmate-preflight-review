@@ -10,4 +10,4 @@ This UI is intentionally simplified. In a real implementation, this experience c
 
 This demo is a proposa for how we might shift trustable review left. Not with heavy automation, but with the kind of small, fast feedback that teams actually want.
 
-˝Paul
+Paul
