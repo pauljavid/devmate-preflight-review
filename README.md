@@ -1,30 +1,13 @@
-# Modern IDE design
+# Pre-Flight Review
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+This is a prototype of an AI-powered code review assistant that runs before a developer opens a pull request.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pauljavid-gmailcoms-projects/v0-modern-ide-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/1RncYOC9e80)
+It’s intentionally scoped: two files, four comments, some serious, some fun. This demo explores how AI can fit into the rhythm of real engineering work without creating friction.
 
-## Overview
+In a world where engineers are constantly navigating trade-offs — speed vs. safety, context vs. velocity — I believe there's space for lightweight tooling that offers value without getting in the way. Especially for lower-stakes PRs, refactors, doc updates, or “rubber-stamp” changes, Pre-Flight Review can nudge toward better quality with minimal interruption.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This UI is intentionally simplified. In a real implementation, this experience could be embedded into the IDE or the PR view. But for now, this demo is here to simulate the moment: click “Pre‑Flight Review,” and get instant feedback.
 
-## Deployment
+This demo is a proposa for how we might shift trustable review left. Not with heavy automation, but with the kind of small, fast feedback that teams actually want.
 
-Your project is live at:
-
-**[https://vercel.com/pauljavid-gmailcoms-projects/v0-modern-ide-design](https://vercel.com/pauljavid-gmailcoms-projects/v0-modern-ide-design)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/1RncYOC9e80](https://v0.dev/chat/projects/1RncYOC9e80)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+— Paul
