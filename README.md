@@ -6,6 +6,6 @@ It’s intentionally scoped: two files with four AI-generated comments that requ
 
 This UI is intentionally simplified. In a real implementation, this experience could be embedded into the IDE or the PR view. But for now, this demo is here to simulate the moment: click “Pre‑Flight Review,” and get instant feedback.
 
-This demo is a proposa for how we might shift trustable review left. Not with heavy automation, but with the kind of small, fast feedback that teams actually want.
+This demo is a proposal for how we might shift trustable review left. Not with heavy automation, but with the kind of small, fast feedback that teams actually want.
 
 Paul
